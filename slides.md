@@ -1,7 +1,10 @@
 ---
 # You can also start simply with 'default'
 theme: seriph
-background: /portada.jpg
+# background: /portada.jpg
+layout: image
+image: /portada.jpg
+backgroundSize: contain
 # some information about your slides (markdown enabled)
 title: HTML 5 & CSS3
 info: |
@@ -33,7 +36,7 @@ MSI. Álvaro Mena Monge
 </div>
 
 <div class="abs-br m-6 text-xl">
-  <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
+  <a href="https://github.com/progra2-presentaciones/css-html.git" target="_blank" class="slidev-icon-btn">
     <carbon:logo-github />
   </a>
 </div>
