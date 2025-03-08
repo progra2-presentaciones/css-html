@@ -3,7 +3,7 @@
 theme: seriph
 # background: /portada.jpg
 layout: image
-image: /portada.jpg
+image: portada.jpg
 backgroundSize: contain
 # some information about your slides (markdown enabled)
 title: HTML 5 & CSS3
