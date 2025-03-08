@@ -203,6 +203,7 @@ layoutClass: gap-4
 
 ---
 # ID selector
+hideInToc: true
 ---
 # ID selector
 

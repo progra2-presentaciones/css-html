@@ -1,7 +1,7 @@
 ---
 # You can also start simply with 'default'
 theme: seriph
-background: ./assets/img/portada.jpg
+background: /portada.jpg
 # some information about your slides (markdown enabled)
 title: HTML 5 & CSS3
 info: |
