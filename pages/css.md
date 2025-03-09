@@ -8,7 +8,7 @@ body {background: yellow;}
 ```
 
 -  Estructura de una regla
-![Estructura de una regla](../public/img/estructura_regla.png)
+![Estructura de una regla](/estructura_regla.png)
 <style>
     img{
         margin: 10px auto;
@@ -129,7 +129,7 @@ hideInToc: true
 ```
 ::right::
 
-![alt text](../public/img/css_html.png)
+![Integración HTML y CSS](/css_html.png)
 
 - Inspección del documento  [Ctrl] + [Shift] + [I]
 ---

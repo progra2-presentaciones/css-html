@@ -1,10 +1,10 @@
 ---
 # You can also start simply with 'default'
 theme: seriph
-background: /public/img/PORTADA.png
-#layout: image
-#image: /PORTADA.png
-#backgroundSize: contain
+#background: /PORTADA.png
+layout: image
+image: /PORTADA.png
+backgroundSize: contain
 # some information about your slides (markdown enabled)
 title: HTML 5 & CSS3
 info: |

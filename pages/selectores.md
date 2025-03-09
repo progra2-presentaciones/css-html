@@ -6,9 +6,10 @@ layoutClass: gap-4
 # ¿Qué es un selector?
 El selector CSS es la primera parte de una regla CSS. 
 - Le indica al navegador qué elementos HTML deben seleccionarse para que se les apliquen los valores de las propiedades CSS dentro de la regla. 
-::right::
-![Selector](../public/img/estructura_regla.png)
 
+::right::
+
+![Selector](/estructura_regla.png)
 ---
 # Type selector
 layout: two-cols

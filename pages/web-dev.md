@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ../public/img/amazon.png
+image: ../public/amazon.png
 background-size: 95% 65%
 ---
 # Desarrollo web
@@ -38,14 +38,14 @@ hideInToc: true
 # Tecnologías cliente versus servidor
 ---
 # Tecnologías cliente versus servidor
-![Cliente servidor](../public/img/clientserver.png)
+![Cliente servidor](../public/clientserver.png)
 
 ---
 # Comparación html, CSS, Javascript
 ---
 # Comparación entre html, CSS, Javascript
 
-![HTML versus CSS y Javascript](../public/img/comparacion.png)
+![HTML versus CSS y Javascript](/comparacion.png)
 <style>
     img{
         margin: 10px auto;
@@ -101,11 +101,11 @@ hideInToc: true
 * HTML es un lenguaje de marcado utilizado para describir la estructura de una página web.
 * SINTAXIS
     - La sintaxis de HTML se compone de etiquetas (con corchetes angulares, <>) y atributos.
-![Elemento HTML](../public/img/html_element.png)
+![Elemento HTML](/html_element.png)
 
 ::right::
 * Ejemplo de etiqueta con atributos
-![alt text](../public/img/anchor.png)
+![alt text](/anchor.png)
 
 
 * Comentarios en HTML 
