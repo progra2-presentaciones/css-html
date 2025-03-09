@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ../public/amazon.png
+image: /amazon.png
 background-size: 95% 65%
 ---
 # Desarrollo web
