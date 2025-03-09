@@ -1,7 +1,7 @@
 ---
 # You can also start simply with 'default'
 theme: seriph
-background: /assets/img/PORTADA.png
+background: /public/img/PORTADA.png
 #layout: image
 #image: /PORTADA.png
 #backgroundSize: contain

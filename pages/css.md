@@ -8,7 +8,7 @@ body {background: yellow;}
 ```
 
 -  Estructura de una regla
-![Estructura de una regla](../assets/img/estructura_regla.png)
+![Estructura de una regla](../public/img/estructura_regla.png)
 <style>
     img{
         margin: 10px auto;
@@ -110,6 +110,7 @@ layoutClass: gap-4
 # Inclusión de un archivo CSS
 layout: two-cols
 layoutClass: gap-4
+hideInToc: true
 ---
 # Integración de CSS en HTML
 ## Sentencias de estilo en un archivo externo CSS
@@ -128,7 +129,7 @@ layoutClass: gap-4
 ```
 ::right::
 
-![alt text](../assets/img/css_html.png)
+![alt text](../public/img/css_html.png)
 
 - Inspección del documento  [Ctrl] + [Shift] + [I]
 ---
